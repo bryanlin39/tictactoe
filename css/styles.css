@@ -1,0 +1,16 @@
+.cell{
+  height: 200px;
+  width: 200px;
+  border: solid 2px black;
+  text-align: center;
+}
+span{
+  font-size: 80px;
+}
+table{
+  margin: auto;
+  margin-top: 10%;
+}
+table, #reset {
+  display: none;
+}
